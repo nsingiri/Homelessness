@@ -1,2 +1,2 @@
 # Homelessness
-Performed regression to see the factors of homelessness
+Performed regression analysis to see the factors that cause homelessness
